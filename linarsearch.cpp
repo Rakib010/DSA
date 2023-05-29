@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
   int arr[10],i,n,x,index;
@@ -14,8 +14,8 @@ int main(){
     }
   } cout<<"index="<<index;
     cout<<endl;
-}*/
-//
+}
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
